@@ -95,6 +95,9 @@ Input: /Egypt
 ![Image](https://github.com/jcaylao/LabReport5/blob/main/skip.JPG?raw=true)
 
 ## **Sources**
+
 https://phoenixnap.com/kb/less-command-in-linux
+
 https://www.geeksforgeeks.org/less-command-linux-examples/
+
 https://linuxhint.com/linux-less-command/
