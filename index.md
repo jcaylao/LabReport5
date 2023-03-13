@@ -74,7 +74,25 @@ After inputting `-I`
 
 ![Image](https://github.com/jcaylao/LabReport5/blob/main/chinese.JPG?raw=true)
 
+### `less -a`
 
+The `-a` option for the less command opts the computer to start the search after the lines displayed on the screen, this meaning all of the lines displayed on the screen are skipped during the search. This is useful when being used on a very long file that contains the target search multiple times within the file.
+
+Example 1:
+
+This example shows the search of a common word and shows how overwhelming the output can be so approaching it little by little makes it easier.
+
+Input: /the
+
+![Image](https://github.com/jcaylao/LabReport5/blob/main/the.JPG?raw=true)
+
+Example 2:
+
+This example shows the output of the search of a not so common word so it allows the output to skip over parts of the file that do not contain the word at all which saves space in the terminal.
+
+Input: /Egypt
+
+![Image](https://github.com/jcaylao/LabReport5/blob/main/skip.JPG?raw=true)
 
 ## **Sources**
 https://phoenixnap.com/kb/less-command-in-linux
