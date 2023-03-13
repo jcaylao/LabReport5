@@ -29,3 +29,9 @@ Before: input `less berlitz2`
 After: input `less -N berlitz2`
 
 ![Image](https://github.com/jcaylao/LabReport5/blob/main/3.JPG?raw=true)
+
+### **`less`
+
+## **Sources**
+https://phoenixnap.com/kb/less-command-in-linux
+https://www.geeksforgeeks.org/less-command-linux-examples/
